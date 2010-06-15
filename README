@@ -1,0 +1,7 @@
+A grep ripoff in ooc - finds matches, displays the line and highlights in bright red. That's all.
+
+You need the latest rock and sdk, as usual:
+
+  * http://github.com/nddrylliog/rock
+
+Amos Wenger (nddrylliog)
